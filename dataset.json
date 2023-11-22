@@ -27,6 +27,22 @@
     {
       "question": "Who is the B.Sc. (General) programme in Computer Science designed for?",
       "answer": "It is designed for students from the physical science stream interested in pursuing careers related to Computer Science."
+    },
+    {
+      "question": "What are the career opportunities for graduates of the B.Sc. (General) programme in Computer Science?",
+      "answer": "Graduates find employment in organizations such as banks, insurance companies, the electronics industry, government, and various business sectors, with opportunities in software development and computer systems support."
+    },
+    {
+      "question": "What programming paradigms are covered in the course?",
+      "answer": "The course covers a range of programming paradigms, including procedural programming, object-oriented programming, visual programming, and logic programming."
+    },
+    {
+      "question": "How long is the B.Sc. Honours Degree Programme in Computer Science?",
+      "answer": "The duration is 4 years."
+    },
+    {
+      "question": "Who is the B.Sc. Honours Degree Programme designed for?",
+      "answer": "It is for students who follow Computer Science as a subject in the B.Sc. (General) degree program and are selected for the special degree."
     }
   ]
 }

@@ -1,24 +1,32 @@
 {
-    "FAQs": [
-      {
-        "question": "What is GPA?",
-        "answer": "The GPA, or Grade Point Average, is a number that indicates how high you scored in your courses on average. Using a scale from 1.0 to 4.0, your GPA tracks your progress during your studies. This number is used to assess whether you meet the standards and expectations set by the degree program or university."
-      },
-      {
-        "question": "What is a good GPA?",
-        "answer": "A good GPA on a standard 4.0 scale can fall between 3.0 and 4.0—or between a B and an A+."
-      },
-      {
-        "question": "How to calculate GPA?",
-        "answer": "Provide answer for this."
-      },
-      {
-        "question": "At which year are we getting selected for a special degree?",
-        "answer": "There is no special degree for ICT students. CS special students are selected by the end of the second year, second-semester examination."
-      },
-      {
-        "question": "What are considered for a special degree in CS?",
-        "answer": "Your overall GPA at the end of the second year."
-      }
-    ]
-  }
+  "FAQs": [
+    {
+      "question": "What is GPA?",
+      "answer": "The GPA, or Grade Point Average, is a number that indicates how high you scored in your courses on average. Using a scale from 1.0 to 4.0, your GPA tracks your progress during your studies. This number is used to assess whether you meet the standards and expectations set by the degree program or university."
+    },
+    {
+      "question": "What is a good GPA?",
+      "answer": "A good GPA on a standard 4.0 scale can fall between 3.0 and 4.0—or between a B and an A+."
+    },
+    {
+      "question": "How to calculate GPA?",
+      "answer": "Provide answer for this."
+    },
+    {
+      "question": "At which year are we getting selected for a special degree?",
+      "answer": "There is no special degree for ICT students. CS special students are selected by the end of the second year, second-semester examination."
+    },
+    {
+      "question": "What are considered for a special degree in CS?",
+      "answer": "Your overall GPA at the end of the second year."
+    },    
+    {
+      "question": "What is the duration of the B.Sc. Degree Programme with Computer Science?",
+      "answer": "The duration is 3 years."
+    },
+    {
+      "question": "Who is the B.Sc. (General) programme in Computer Science designed for?",
+      "answer": "It is designed for students from the physical science stream interested in pursuing careers related to Computer Science."
+    }
+  ]
+}

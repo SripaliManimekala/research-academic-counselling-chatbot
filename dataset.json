@@ -65,8 +65,12 @@
       "answer": "Prof. Prasad M. Jayaweera, Head of the Department of Computer Science. Contact details: E-mail - pja@sjp.ac.lk."
     },
     {
-      "question": "How long is the B.Sc. Honours Degree Programme in Computer Science?",
-      "answer": "The duration is 4 years."
+      "question": "What is the minimum cumulative credit value required for B.Sc. Degree Course Units?",
+      "answer": "Each student should take course units having a minimum cumulative credit value of 27.0."
     },
+    {
+      "question": "What are the types of courses in the B.Sc. Degree Programme?",
+      "answer": "There are core (c) courses and optional (o) courses for those doing Computer Science."
+    }
   ]
 }

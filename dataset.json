@@ -71,6 +71,18 @@
     {
       "question": "What are the types of courses in the B.Sc. Degree Programme?",
       "answer": "There are core (c) courses and optional (o) courses for those doing Computer Science."
+    },
+    {
+      "question": "What courses are included in the first year, Semester 1 of the B.Sc. Degree Programme?",
+      "answer": "The courses are CSC 106 (Computer System Organization), CSC 107 (Introduction to Computer Programming), and CSC 108 (Software Engineering I)."
+    },
+    {
+      "question": "Can you provide details about the courses in the first year, Semester 2?",
+      "answer": "Semester 2 includes CSC 110 (Objected Oriented Programming), CSC 111 (Computer Programming - Laboratory), and CSC 112 (Software Engineering II)."
+    },
+    {
+      "question": "What courses are offered in the second year, Semester 1?",
+      "answer": "Semester 1 includes CSC 201 (Data Structures and Algorithms I), CSC 203 (Computer System Architecture), and CSC 207 (Knowledge Representation)."
     }
   ]
 }

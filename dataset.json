@@ -125,8 +125,67 @@
       "answer": "Physical Science students are selected by the University Grants Commission (UGC) through a special window, with an intake limited to a maximum of 50 students per academic year."
     },
     {
-      "question": "How to calculate GPA?",
-      "answer": "Provide answer for this."
+      "question": "What are the career opportunities for graduates with ICT skills?",
+      "answer": "Graduates with ICT skills find employment in business enterprises such as banks, insurance companies, the electronics industry, and government sectors. They typically engage in software development, computer systems support, and the business environment."
+    },
+    {
+      "question": "What does learning ICT involve?",
+      "answer": "Learning ICT involves understanding computer systems and applying them to seek automated solutions. The course covers both software and related hardware, emphasizing the creation of links between theory and practice. It includes a variety of software technologies, programming paradigms, and disciplines such as software engineering, net-centric computing, visual computing, and multimedia technologies."
+    },
+    {
+      "question": "How does ICT contribute to the B.Sc. (General) degree program?",
+      "answer": "ICT constitutes one-third of the B.Sc. (General) degree program in allowed subject combinations. Students are required to take core course units in ICT with a minimum cumulative credit value of 27.0, providing essential knowledge in theory, practice, and skills required in the ICT industry."
+    },
+    {
+      "question": "How are students taught in the B.Sc. Degree Program with ICT?",
+      "answer": "Students are taught by academic staff with good track records, and the medium of instruction is English. The course units include lectures, assignments, individual/group projects, and laboratory practicals. Assessment methods include continuous assessments, end-of-semester written examinations, practical examinations, presentations, and reports."
+    },
+    {
+      "question": "Who can be contacted for further information about the B.Sc. Degree Program with ICT?",
+      "answer": "For further information, please contact Prof. Prasad M. Jayaweera, Head/Department of Computer Science. Email: pja@sjp.ac.lk."
+    },
+    {
+      "question": "What is the minimum cumulative credit value required for B.Sc. Degree Course Units in ICT?",
+      "answer": "Each student should take course units having a minimum cumulative credit value of 27.0."
+    },
+    {
+      "question": "List the courses in the first semester of the first year.",
+      "answer": "The first semester includes Computer Architecture, Fundamentals of Computer Programming, Computer Programming - Laboratory I, and Software Engineering I."
+    },
+    {
+      "question": "Can you provide details about the courses in the second semester of the first year?",
+      "answer": "The second semester includes Object-Oriented Programming, Computer Programming - Laboratory II, and Software Engineering II."
+    },
+    {
+      "question": "What courses are offered in the first semester of the second year for ICT students?",
+      "answer": "The first semester includes Data Structures and Algorithms, Operating Systems, and Database Systems and Administration."
+    },
+    {
+      "question": "List the courses in the second semester of the second year in ICT.",
+      "answer": "The second semester includes User Interface Design and Implementation, Computer Networks and System Administration, and Visual Computing."
+    },
+    {
+      "question": "What courses are part of the first semester of the third year ICT?",
+      "answer": "The first semester includes Multimedia Technologies, Embedded Systems, Mobile Technologies and Application Development, and Introduction to Artificial Intelligence."
+    },
+    {
+      "question": "Can you provide details about the courses in the second semester of the third year ICT?",
+      "answer": "The second semester includes Software Architecture and Design, Software Quality Assurance, Human Computer Interaction, Data Mining and Data Warehousing, and Project (Individual/Group)."
+    },
+    {
+      "question": "What are the available combinations for Physical Science Students in the B.Sc. Degree Courses?",
+      "answer": "The combinations available are:
+      - P01: Mathematics, Chemistry, Physics
+      - P02: Mathematics, Chemistry, Statistics
+      - P03: Mathematics, Physics, Statistics
+      - P04: Mathematics, Chemistry, Management Science
+      - P05: Mathematics, Physics, Management Science
+      - P06: Mathematics, Computer Science, Statistics
+      - P07: Mathematics, Computer Science, Physics
+      - P08: Mathematics, Statistics, Economics
+      - P12: Mathematics, Applied Mathematics, Computer Science
+      - P13: Mathematics, Physics, EES (Environmental and Earth Sciences)
+      - P14: Mathematics, Management Science, Applied Mathematics (combinations only with computer science should be considered)"
     },
     {
       "question": "How to calculate GPA?",
@@ -135,6 +194,10 @@
     {
       "question": "How to calculate GPA?",
       "answer": "Provide answer for this."
-    }
+    },
+    {
+      "question": "How to calculate GPA?",
+      "answer": "Provide answer for this."
+    },
   ]
 }

@@ -236,8 +236,28 @@
       "answer": "Mr. D. D. A. Gamini is the Academic Counsellor for Computer Science."
     },
     {
-      "question": "How to calculate GPA?",
-      "answer": "Provide answer for this."
+      "question": "Who is the Academic Counsellor for Information and Communications Technology (ICT)?",
+      "answer": "Dr. T. M. K. K. Jinasena is the Academic Counsellor for Information and Communications Technology."
+    },
+    {
+      "question": "What is the role of the Student Counsellors Committee (SAC)?",
+      "answer": "SAC provides advice on student welfare activities such as attendance, medical certificates, hostels, canteens, scholarships, and bursaries."
+    },
+    {
+      "question": "Who is the contact person for student welfare activities?",
+      "answer": "Dr. T.G.I.Fernando from the Department of Computer Science is a member of the Student Counsellors Committee (SAC)."
+    },
+    {
+      "question": "What is the help line for students, and when can they contact it?",
+      "answer": "The help line for students is 072 6885344, available for assistance and guidance."
+    },
+    {
+      "question": "Who is the Director of Student Welfare, and how can students contact them?",
+      "answer": "Prof. Hemantha Kottawatta is the Director of Student Welfare, and students can contact him at 0112758330."
+    },
+    {
+      "question": "What is the Virtusa Academic Merit Prize, and who is it awarded to?",
+      "answer": "The Virtusa Academic Merit Prize is awarded to the student who obtains a First Class Pass with the highest GPA in the B.Sc. (Honours) Degree in Computer Science."
     },
     {
       "question": "How to calculate GPA?",
@@ -246,10 +266,6 @@
     {
       "question": "How to calculate GPA?",
       "answer": "Provide answer for this."
-    },
-    {
-      "question": "How to calculate GPA?",
-      "answer": "Provide answer for this."
-    },
+    }
   ]
 }

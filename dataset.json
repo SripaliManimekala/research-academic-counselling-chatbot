@@ -83,6 +83,42 @@
     {
       "question": "What courses are offered in the second year, Semester 1?",
       "answer": "Semester 1 includes CSC 201 (Data Structures and Algorithms I), CSC 203 (Computer System Architecture), and CSC 207 (Knowledge Representation)."
-    }
+    },
+    {
+      "question": "Can you list the courses in the second year, Semester 2?",
+      "answer": "Semester 2 includes CSC 208 (Operating Systems), CSC 209 (Database Management Systems), and CSC 210 (Computer Graphics)."
+    },
+    {
+      "question": "What courses are part of the third year, Semester 1?",
+      "answer": "Semester 1 includes CSC 312 (Visual Computing), CSC 313 (Service Oriented Computing), CSC 319 (Machine Learning I), and CSC 378 (Computer Security)."
+    },
+    {
+      "question": "Can you provide details about the courses in the third year, Semester 2?",
+      "answer": "Semester 2 includes CSC 309 (Expert Systems), CSC 310 (Project), CSC 315 (Net Centric Computing), CSC 316 (Artificial Intelligence), CSC 317 (Human Computer Interaction), CSC 361 (Swarm Intelligence), and CSC 365 (Software Quality Assurance)."
+    },
+    {
+      "question": "How to calculate GPA?",
+      "answer": "Provide answer for this."
+    },
+    {
+      "question": "How to calculate GPA?",
+      "answer": "Provide answer for this."
+    },
+    {
+      "question": "How to calculate GPA?",
+      "answer": "Provide answer for this."
+    },
+    {
+      "question": "How to calculate GPA?",
+      "answer": "Provide answer for this."
+    },
+    {
+      "question": "How to calculate GPA?",
+      "answer": "Provide answer for this."
+    },
+    {
+      "question": "How to calculate GPA?",
+      "answer": "Provide answer for this."
+    },
   ]
 }

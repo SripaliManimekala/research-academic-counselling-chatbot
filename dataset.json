@@ -174,18 +174,7 @@
     },
     {
       "question": "What are the available combinations for Physical Science Students in the B.Sc. Degree Courses?",
-      "answer": "The combinations available are:
-      - P01: Mathematics, Chemistry, Physics
-      - P02: Mathematics, Chemistry, Statistics
-      - P03: Mathematics, Physics, Statistics
-      - P04: Mathematics, Chemistry, Management Science
-      - P05: Mathematics, Physics, Management Science
-      - P06: Mathematics, Computer Science, Statistics
-      - P07: Mathematics, Computer Science, Physics
-      - P08: Mathematics, Statistics, Economics
-      - P12: Mathematics, Applied Mathematics, Computer Science
-      - P13: Mathematics, Physics, EES (Environmental and Earth Sciences)
-      - P14: Mathematics, Management Science, Applied Mathematics (combinations only with computer science should be considered)."
+      "answer": "The combinations available are:- P01: Mathematics, Chemistry, Physics,- P02: Mathematics, Chemistry, Statistics,- P03: Mathematics, Physics, Statistics,- P04: Mathematics, Chemistry, Management Science,- P05: Mathematics, Physics, Management Science,- P06: Mathematics, Computer Science, Statistics,- P07: Mathematics, Computer Science, Physics,- P08: Mathematics, Statistics, Economics,- P12: Mathematics, Applied Mathematics, Computer Science,- P13: Mathematics, Physics, EES (Environmental and Earth Sciences),- P14: Mathematics, Management Science, Applied Mathematics (combinations only with computer science should be considered)."
     },
     {
       "question": "Which combinations specifically include Computer Science?",

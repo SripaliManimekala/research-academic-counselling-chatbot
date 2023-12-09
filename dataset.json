@@ -10,7 +10,8 @@
     },
     {
       "question": "How to calculate GPA?",
-      "answer": "Provide answer for this."
+      "answer": "Your GPA will be calculated using the following formula and rounded to the second decimal.
+      GPA= ∑(Grade points scored for the couese unit * Credit value of the course unit)/(Cumulative credit value of all course units followed) "
     },
     {
       "question": "At which year are we getting selected for a special degree?",

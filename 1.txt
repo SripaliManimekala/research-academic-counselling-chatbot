@@ -1,0 +1,186 @@
+
+[q] What is GPA?
+[a] The GPA, or Grade Point Average, is a number that indicates how high you scored in your courses on average. Using a scale from 1.0 to 4.0, your GPA tracks your progress during your studies. This number is used to assess whether you meet the standards and expectations set by the degree program or university.
+
+[q] What is a good GPA?
+[a] A good GPA on a standard 4.0 scale can fall between 3.0 and 4.0—or between a B and an A+.
+
+[q] How to calculate GPA?
+[a] Your GPA will be calculated using the following formula and rounded to the second decimal.GPA= ∑(Grade points scored for the couese unit * Credit value of the course unit)/(Cumulative credit value of all course units followed) 
+
+[q] At which year are we getting selected for a special degree?
+[a] There is no special degree for ICT students. CS special students are selected by the end of the second year, second-semester examination.
+
+[q] What are considered for a special degree in CS?
+[a] Your overall GPA at the end of the second year.
+
+[q] What is the duration of the B.Sc. Degree Programme with Computer Science?
+[a] The duration is 3 years.
+
+[q] Who is the B.Sc. (General) programme in Computer Science designed for?
+[a] It is designed for students from the physical science stream interested in pursuing careers related to Computer Science.
+
+[q] What are the career opportunities for graduates of the B.Sc. (General) programme in Computer Science?
+[a] Graduates find employment in organizations such as banks, insurance companies, the electronics industry, government, and various business sectors, with opportunities in software development and computer systems support.
+
+[q] What programming paradigms are covered in the course?
+[a] The course covers a range of programming paradigms, including procedural programming, object-oriented programming, visual programming, and logic programming.
+
+[q] How long is the B.Sc. Honours Degree Programme in Computer Science?
+[a] The duration is 4 years.
+
+[q] Who is the B.Sc. Honours Degree Programme designed for?
+[a] It is for students who follow Computer Science as a subject in the B.Sc. (General) degree program and are selected for the special degree.
+
+[q] What career opportunities does the B.Sc. Honours Degree Programme open up?
+[a] Graduates with an Honours degree have better employment prospects. Designations include Lecturer, Assistant Project Manager, Software Engineer, and Business Analyst.
+
+[q] What is the mode of instruction and assessment for the B.Sc. (General) programme?
+[a] The mode includes lectures, assignments, individual and group projects, laboratory practicals, continuous assessments, end-of-semester written exams, practical examinations, presentations, and reports.
+
+[q] How are students assessed in the Honours degree programme?
+[a] Assessment methods include continuous assessments, end-of-semester written exams, practical examinations, presentations, and reports.
+
+[q] How is the selection for the B.Sc. Honours Degree Programme based?
+[a] The selection is based on students' performances in the first two academic years, maintaining high GPAs in Computer Science and overall, and good attendance records.
+
+[q] Who can be contacted for further information?
+[a] Prof. Prasad M. Jayaweera, Head of the Department of Computer Science. Contact details: E-mail - pja@sjp.ac.lk.
+
+[q] What is the minimum cumulative credit value required for B.Sc. Degree Course Units?
+[a] Each student should take course units having a minimum cumulative credit value of 27.0.
+
+[q] What are the types of courses in the B.Sc. Degree Programme?
+[a] There are core (c) courses and optional (o) courses for those doing Computer Science.
+
+[q] What courses are included in the first year, Semester 1 of the B.Sc. Degree Programme?
+[a] The courses are CSC 106 (Computer System Organization), CSC 107 (Introduction to Computer Programming), and CSC 108 (Software Engineering I).
+
+[q] Can you provide details about the courses in the first year, Semester 2?
+[a] Semester 2 includes CSC 110 (Objected Oriented Programming), CSC 111 (Computer Programming - Laboratory), and CSC 112 (Software Engineering II).
+
+[q] What courses are offered in the second year, Semester 1?
+[a] Semester 1 includes CSC 201 (Data Structures and Algorithms I), CSC 203 (Computer System Architecture), and CSC 207 (Knowledge Representation).
+
+[q] Can you list the courses in the second year, Semester 2?
+[a] Semester 2 includes CSC 208 (Operating Systems), CSC 209 (Database Management Systems), and CSC 210 (Computer Graphics).
+
+[q] What courses are part of the third year, Semester 1?
+[a] Semester 1 includes CSC 312 (Visual Computing), CSC 313 (Service Oriented Computing), CSC 319 (Machine Learning I), and CSC 378 (Computer Security).
+
+[q] Can you provide details about the courses in the third year, Semester 2?
+[a] Semester 2 includes CSC 309 (Expert Systems), CSC 310 (Project), CSC 315 (Net Centric Computing), CSC 316 (Artificial Intelligence), CSC 317 (Human Computer Interaction), CSC 361 (Swarm Intelligence), and CSC 365 (Software Quality Assurance).
+
+[q] What is the minimum cumulative credit value required for B.Sc. Honours Degree Course Units?
+[a] Each student should take course units having a minimum cumulative credit value of 30.0 from both PART I and PART II.
+
+[q] List the courses in the first semester of PART I.
+[a] The first semester of PART I includes Visual Computing, Service Oriented Computing, Rapid Application Development, Machine Learning I, Theory of Computation, Data Structures and Algorithms II, Seminar I, Research Methodologies and Scientific Communication, Computer Security, and Programming and Data Analysis with R.
+
+[q] Can you provide details about the courses in the second semester of PART I?
+[a] The second semester of PART I includes Expert Systems, Net Centric Computing, Artificial Intelligence, Human Computer Interaction, Modeling and Simulation, Operations Research, Swarm Intelligence, Seminar II, Software Quality Assurance, Machine Learning II, Embedded Systems and Internet of Things, Theory of Programming Languages, Introduction to Microprocessors, Optimization, and Mathematical Modeling I.
+
+[q] What courses are offered in the first semester of PART II?
+[a] The first semester of PART II includes Geometric Modeling, Intelligent Systems, Distributed Systems, Fuzzy Theory, Miscellaneous Topics in Computing Science, Project (Semester I and II), Digital Image Processing, Data Warehousing, Data Mining and Information Retrieval, Computational Biology, Robotics, Evolutionary Computing, Advanced Database Systems, and Mobile Computing.
+
+[q] Can you list the courses in the second semester of PART II?
+[a] The second semester of PART II includes Industrial Training, Research Project (Semester I and II).
+
+[q] What is the duration of the B.Sc. Degree Program with Information and Communication Technology (ICT)?
+[a] The duration is 3 years.
+
+[q] How are students selected for the B.Sc. Degree Program with ICT?
+[a] Physical Science students are selected by the University Grants Commission (UGC) through a special window, with an intake limited to a maximum of 50 students per academic year.
+
+[q] What are the career opportunities for graduates with ICT skills?
+[a] Graduates with ICT skills find employment in business enterprises such as banks, insurance companies, the electronics industry, and government sectors. They typically engage in software development, computer systems support, and the business environment.
+
+[q] What does learning ICT involve?
+[a] Learning ICT involves understanding computer systems and applying them to seek automated solutions. The course covers both software and related hardware, emphasizing the creation of links between theory and practice. It includes a variety of software technologies, programming paradigms, and disciplines such as software engineering, net-centric computing, visual computing, and multimedia technologies.
+
+[q] How does ICT contribute to the B.Sc. (General) degree program?
+[a] ICT constitutes one-third of the B.Sc. (General) degree program in allowed subject combinations. Students are required to take core course units in ICT with a minimum cumulative credit value of 27.0, providing essential knowledge in theory, practice, and skills required in the ICT industry.
+
+[q] How are students taught in the B.Sc. Degree Program with ICT?
+[a] Students are taught by academic staff with good track records, and the medium of instruction is English. The course units include lectures, assignments, individual/group projects, and laboratory practicals. Assessment methods include continuous assessments, end-of-semester written examinations, practical examinations, presentations, and reports.
+
+[q] Who can be contacted for further information about the B.Sc. Degree Program with ICT?
+[a] For further information, please contact Prof. Prasad M. Jayaweera, Head/Department of Computer Science. Email: pja@sjp.ac.lk.
+
+[q] What is the minimum cumulative credit value required for B.Sc. Degree Course Units in ICT?
+[a] Each student should take course units having a minimum cumulative credit value of 27.0.
+
+[q] List the courses in the first semester of the first year.
+[a] The first semester includes Computer Architecture, Fundamentals of Computer Programming, Computer Programming - Laboratory I, and Software Engineering I.
+
+[q] Can you provide details about the courses in the second semester of the first year?
+[a] The second semester includes Object-Oriented Programming, Computer Programming - Laboratory II, and Software Engineering II.
+
+[q] What courses are offered in the first semester of the second year for ICT students?
+[a] The first semester includes Data Structures and Algorithms, Operating Systems, and Database Systems and Administration.
+
+[q] List the courses in the second semester of the second year in ICT.
+[a] The second semester includes User Interface Design and Implementation, Computer Networks and System Administration, and Visual Computing.
+
+[q] What courses are part of the first semester of the third year ICT?
+[a] The first semester includes Multimedia Technologies, Embedded Systems, Mobile Technologies and Application Development, and Introduction to Artificial Intelligence.
+
+[q] Can you provide details about the courses in the second semester of the third year ICT?
+[a] The second semester includes Software Architecture and Design, Software Quality Assurance, Human Computer Interaction, Data Mining and Data Warehousing, and Project (Individual/Group).
+
+[q] What are the available combinations for Physical Science Students in the B.Sc. Degree Courses?
+[a] The combinations available are:- P01: Mathematics, Chemistry, Physics,- P02: Mathematics, Chemistry, Statistics,- P03: Mathematics, Physics, Statistics,- P04: Mathematics, Chemistry, Management Science,- P05: Mathematics, Physics, Management Science,- P06: Mathematics, Computer Science, Statistics,- P07: Mathematics, Computer Science, Physics,- P08: Mathematics, Statistics, Economics,- P12: Mathematics, Applied Mathematics, Computer Science,- P13: Mathematics, Physics, EES (Environmental and Earth Sciences),- P14: Mathematics, Management Science, Applied Mathematics (combinations only with computer science should be considered).
+
+[q] Which combinations specifically include Computer Science?
+[a] Combinations including Computer Science are P06, P07, and P12.
+
+[q] What degrees are offered by the Department of Computer Science?
+[a] The department offers a B.Sc. General Degree with Computer Science as a subject, a B.Sc. Honours Degree in Computer Science, and a B.Sc. General Degree with ICT as a subject.
+
+[q] How many undergraduates are currently enrolled in the department, and in which programs?
+[a] Currently, there are about 520 undergraduates in four batches following a general degree with Computer Science, a general degree with ICT, and a special degree in Computer Science.
+
+[q] What are the teaching methods employed by the department?
+[a] Teaching methods involve a combination of lectures, tutorials, group work, and practical work. Tutorials are provided in all years of the study programs.
+
+[q] What postgraduate programs are offered by the Department of Computer Science?
+[a] The department offers a Postgraduate Diploma/Certificate in Computer Science, catering to graduates with a background in computing.
+
+[q] Who is the Postgraduate program suitable for?
+[a] The Postgraduate Diploma/Certificate in Computer Science is particularly suitable for graduates working in areas related to computing who wish to bring their expertise up to date with developments in the field.
+
+[q] What is the Society of Computer Science, and when was it formed?
+[a] The Society of Computer Science, formed in 2000, is one of the leading and most active student societies in the university, dedicated to Computer Science.
+
+[q] What are the goals of the Society of Computer Science?
+[a] The goals include promoting Computer Science and ICT as subjects, conducting workshops, seminars, lectures, field tours, and improving the level of knowledge on cyber technology among students.
+
+[q] Can you highlight some achievements of the Department of Computer Science?
+[a] Achievements include gold medals at Asia Pacific ICT Awards (APICTA) in 2019 and 2018, silver and bronze medals at NBQSA in 2019 and 2018, first place global award at Robotic Design Competition, Spain, 2019, and various other recognitions.
+
+[q] How can one contact the Head of the Department of Computer Science for further advice and information?
+[a] For further advice and information, one can contact Prof. Prasad M. Jayaweera, Head/Department of Computer Science, University of Sri Jayewardenepura, Nugegoda. Telephone: +94 112758913, Email - pja@sjp.ac.lk.
+
+[q] Why is it advised for students to obtain guidance from Academic Counsellors before course registration?
+[a] Academic Counsellors provide valuable guidance on course selection and academic planning to ensure students make informed decisions.
+
+[q] Who is the Academic Counsellor for Computer Science?
+[a] Mr. D. D. A. Gamini is the Academic Counsellor for Computer Science.
+
+[q] Who is the Academic Counsellor for Information and Communications Technology (ICT)?
+[a] Dr. T. M. K. K. Jinasena is the Academic Counsellor for Information and Communications Technology.
+
+[q] What is the role of the Student Counsellors Committee (SAC)?
+[a] SAC provides advice on student welfare activities such as attendance, medical certificates, hostels, canteens, scholarships, and bursaries.
+
+[q] Who is the contact person for student welfare activities?
+[a] Dr. T.G.I.Fernando from the Department of Computer Science is a member of the Student Counsellors Committee (SAC).
+
+[q] What is the help line for students, and when can they contact it?
+[a] The help line for students is 072 6885344, available for assistance and guidance.
+
+[q] Who is the Director of Student Welfare, and how can students contact them?
+[a] Prof. Hemantha Kottawatta is the Director of Student Welfare, and students can contact him at 0112758330.
+
+[q] What is the Virtusa Academic Merit Prize, and who is it awarded to?
+[a] The Virtusa Academic Merit Prize is awarded to the student who obtains a First Class Pass with the highest GPA in the B.Sc. (Honours) Degree in Computer Science.

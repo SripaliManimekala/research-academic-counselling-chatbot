@@ -1,4 +1,3 @@
-
 [q] What is GPA?
 [a] The GPA, or Grade Point Average, is a number that indicates how high you scored in your courses on average. Using a scale from 1.0 to 4.0, your GPA tracks your progress during your studies. This number is used to assess whether you meet the standards and expectations set by the degree program or university.
 

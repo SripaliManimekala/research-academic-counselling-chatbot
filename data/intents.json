@@ -1,0 +1,40 @@
+{
+    "intents": [
+        {
+            "tag": "GPA",
+            "patterns": [
+                "what is GPA?",
+                "Explain GPA.",
+                "Tell me about Grade Point Average.",
+                "Define GPA.",
+                "What does GPA stand for?"
+            ],
+            "response": "The GPA, or Grade Point Average, is a number that indicates how high you scored in your courses on average. Using a scale from 1.0 to 4.0, your GPA tracks your progress during your studies. This number is used to assess whether you meet the standards and expectations set by the degree program or university.",
+            "id": 1
+        },
+        {
+            "tag": "GPA",
+            "patterns": [
+                "What is a good GPA?",
+                "Tell me about a good GPA.",
+                "What GPA is considered good?",
+                "What's the range for a good GPA?",
+                "Explain a good GPA."
+            ],
+            "response": "A good GPA on a standard 4.0 scale can fall between 3.0 and 4.0 or between a B and an A+.",
+            "id": 2
+        },
+        {
+            "tag": "GPA",
+            "patterns": [
+                "How to calculate GPA?",
+                "Explain GPA calculation.",
+                "What is the GPA calculation formula?",
+                "Tell me how to calculate GPA.",
+                "Give me the GPA calculation method."
+            ],
+            "response": "Your GPA will be calculated using the following formula and rounded to the second decimal. GPA= \u2211∑(Grade points scored for the course unit * Credit value of the course unit)/(Cumulative credit value of all course units followed).",
+            "id": 3
+        }
+    ]
+}

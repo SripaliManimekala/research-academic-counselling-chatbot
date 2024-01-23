@@ -33,8 +33,168 @@
                 "Tell me how to calculate GPA.",
                 "Give me the GPA calculation method."
             ],
-            "response": "Your GPA will be calculated using the following formula and rounded to the second decimal. GPA= \u2211∑(Grade points scored for the course unit * Credit value of the course unit)/(Cumulative credit value of all course units followed).",
+            "response": "Your GPA will be calculated using the following formula and rounded to the second decimal. GPA= \u2211\u00e2\u02c6\u2018(Grade points scored for the course unit * Credit value of the course unit)/(Cumulative credit value of all course units followed).",
             "id": 3
+        },
+        {
+            "tag": "Special Degree Selection",
+            "patterns": [
+                "At which year are we getting selected for a special degree?",
+                "When is the selection for a special degree?",
+                "Tell me about special degree selection.",
+                "When do ICT students get selected for a special degree?",
+                "Explain the special degree selection process."
+            ],
+            "response": "There is no special degree for ICT students. CS special students are selected by the end of the second year, second-semester examination.",
+            "id": 4
+        },
+        {
+            "tag": "Degree Selection",
+            "patterns": [
+                "what are the qualifications for cs special degree?",
+                "What are considered for a special degree in CS?",
+                "Explain the criteria for CS special degree.",
+                "Tell me about CS special degree requirements.",
+                "What factors are considered for a special degree in CS?",
+                "Explain the CS special degree eligibility."
+            ],
+            "response": "Your overall GPA at the end of the second year.",
+            "id": 5
+        },
+        {
+            "tag": "Degree Duration",
+            "patterns": [
+                "What is the duration of the B.Sc. Degree Programme with Computer Science?",
+                "Tell me about the duration of Computer Science degree.",
+                "Explain the duration of B.Sc. Degree in Computer Science.",
+                "How long is the B.Sc. Degree Programme with Computer Science?",
+                "What's the duration of Computer Science B.Sc. degree?"
+            ],
+            "response": "The duration for General degree is 3 years.",
+            "id": 6
+        },
+        {
+            "tag": "Degree Information",
+            "patterns": [
+                "Who is the B.Sc. (General) programme in Computer Science designed for?",
+                "Tell me about the target audience for B.Sc. Computer Science.",
+                "Explain the target group for Computer Science B.Sc.",
+                "Who should pursue B.Sc. (General) programme in Computer Science?",
+                "For whom is the B.Sc. Computer Science program designed?"
+            ],
+            "response": "It is designed for students from the physical science stream interested in pursuing careers related to Computer Science.",
+            "id": 7
+        },
+        {
+            "tag": "Career Opportunities",
+            "patterns": [
+                "What are the career opportunities for graduates of the B.Sc. (General) programme in Computer Science?",
+                "Tell me about career options after B.Sc. Computer Science.",
+                "Explain the employment prospects for Computer Science graduates.",
+                "What jobs can B.Sc. Computer Science graduates get?",
+                "Describe the career opportunities for Computer Science graduates."
+            ],
+            "response": "Graduates find employment in organizations such as banks, insurance companies, the electronics industry, government, and various business sectors, with opportunities in software development and computer systems support.",
+            "id": 8
+        },
+        {
+            "tag": "course content",
+            "patterns": [
+                "What programming paradigms are covered in the course?",
+                "Tell me about the covered programming paradigms.",
+                "Which programming paradigms does the course include?",
+                "Explain the programming paradigms in the course."
+            ],
+            "response": "The course covers a range of programming paradigms, including procedural programming, object-oriented programming, visual programming, and logic programming.",
+            "id": 9
+        },
+        {
+            "tag": "Degree Duration",
+            "patterns": [
+                "How long is the B.Sc. Honours Degree Programme in Computer Science?",
+                "What is the duration of the Honours Degree Programme?",
+                "Tell me about the duration of the B.Sc. Honours Degree Programme.",
+                "Explain the length of the Honours Degree Programme."
+            ],
+            "response": "The duration of B.Sc. Honours in Computer Science degree is 4 years.",
+            "id": 10
+        },
+        {
+            "tag": "Degree Selection",
+            "patterns": [
+                "who is eliginle for B.Sc. Honours Degree in computer science?",
+                "Tell me about the target audience for the B.Sc. Honours Degree in computer science.",
+                "students eligible for the Honours Degree Programme.",
+                "Who can enroll in the B.Sc. Honours Degree in Computer Science?"
+            ],
+            "response": "It is for students who follow Computer Science as a subject in the B.Sc. (General) degree program and are selected for the special degree.",
+            "id": 11
+        },
+        {
+            "tag": "Career Opportunities",
+            "patterns": [
+                "What career opportunities does the B.Sc. Honours Degree Programme open up?",
+                "Tell me about the career prospects after completing the Honours Degree Programme.",
+                "Explain the job opportunities for Honours Degree graduates.",
+                "What are the employment options for B.Sc. Honours Degree holders?"
+            ],
+            "response": "Graduates with an Honours degree have better employment prospects. Designations include Lecturer, Assistant Project Manager, Software Engineer, and Business Analyst.",
+            "id": 12
+        },
+        {
+            "tag": "Teaching Methods",
+            "patterns": [
+                "What is the mode of instruction and assessment for the B.Sc. (General) programme?",
+                "Explain the teaching and assessment methods for the General programme.",
+                "Tell me about the instruction and assessment mode for the B.Sc. programme.",
+                "What methods are used for teaching and assessment in the General programme?"
+            ],
+            "response": "The mode includes lectures, assignments, individual and group projects, laboratory practicals, continuous assessments, end-of-semester written exams, practical examinations, presentations, and reports.",
+            "id": 13
+        },
+        {
+            "tag": "Assessment Methods",
+            "patterns": [
+                "How are students assessed in the Honours degree programme?",
+                "Tell me about the assessment methods for the Honours degree.",
+                "Explain the evaluation process in the Honours Degree Programme.",
+                "What methods are used for assessing students in the Honours Degree Programme?"
+            ],
+            "response": "Assessment methods include continuous assessments, end-of-semester written exams, practical examinations, presentations, and reports.",
+            "id": 14
+        },
+        {
+            "tag": "Degree Selection",
+            "patterns": [
+                "How is the selection for the B.Sc. Honours Degree Programme based?",
+                "Explain the criteria for selecting students for the Honours Degree Programme.",
+                "Tell me about the selection process for the Honours Degree Programme.",
+                "What factors determine the selection for the B.Sc. Honours Degree Programme?"
+            ],
+            "response": "The selection is based on students' performances in the first two academic years, maintaining high GPAs in Computer Science and overall, and good attendance records.",
+            "id": 15
+        },
+        {
+            "tag": "Contact Information",
+            "patterns": [
+                "Who can be contacted for further information?",
+                "Provide contact details for further inquiries.",
+                "Tell me about the contact person for additional information.",
+                "How can I reach out for more details?"
+            ],
+            "response": "Prof. Prasad M. Jayaweera, Head of the Department of Computer Science. Contact details: E-mail - pja@sjp.ac.lk.",
+            "id": 16
+        },
+        {
+            "tag": "Degree Requirements",
+            "patterns": [
+                "What is the minimum cumulative credit value required for B.Sc. Degree Course Units?",
+                "Tell me about the minimum credit value requirements for the Degree Course Units.",
+                "Explain the cumulative credit value needed for B.Sc. Degree Course Units.",
+                "What is the minimum credit value for B.Sc. Degree Course Units?"
+            ],
+            "response": "Each student should take course units having a minimum cumulative credit value of 27.0.",
+            "id": 17
         }
     ]
 }

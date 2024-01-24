@@ -195,6 +195,39 @@
             ],
             "response": "Each student should take course units having a minimum cumulative credit value of 27.0.",
             "id": 17
+        },
+        {
+            "tag": "B.Sc. Degree Programme - Types of Courses",
+            "patterns": [
+                "What are the types of courses in the B.Sc. Degree Programme?",
+                "Explain the course types available in the B.Sc. Degree Programme.",
+                "Tell me about the core and optional courses in the B.Sc. Degree Programme.",
+                "Provide details about the courses in the B.Sc. Degree Programme."
+            ],
+            "response": "There are core (c) courses and optional (o) courses for those doing Computer Science.",
+            "id": 18
+        },
+        {
+            "tag": "First Year-Semester 1 Computer Science Courses",
+            "patterns": [
+                "What courses are included in the first year, Semester 1 of the B.Sc. Degree Programme?",
+                "Explain the courses in the first semester of the B.Sc. Degree Programme.",
+                "Tell me about the first semester courses in the B.Sc. Degree Programme.",
+                "List the courses for the first semester of the B.Sc. Degree Programme."
+            ],
+            "response": "The courses are CSC 106 (Computer System Organization), CSC 107 (Introduction to Computer Programming), and CSC 108 (Software Engineering I).",
+            "id": 19
+        },
+        {
+            "tag": "First Year-Semester 2 Computer Science Courses",
+            "patterns": [
+                "What courses are included in the first year, Semester 2 of the B.Sc. Degree Programme?",
+                "Explain the courses in the first year second semester of the B.Sc. Degree Programme.",
+                "Tell me about the first year second semester courses in the B.Sc. Degree Programme.",
+                "List the courses for the first year second semester of the B.Sc. Degree Programme."
+            ],
+            "response": "The courses are CSC 110 (Object Oriented Programming), CSC 111 (Computer Programming - Laboratory), and CSC 112 (Software Engineering II).",
+            "id": 20
         }
     ]
 }
